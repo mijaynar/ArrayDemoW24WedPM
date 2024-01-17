@@ -10,7 +10,7 @@ package arraydemoweek1;
  */
 public class ArrayDemoWeek1 {
 
-    /**
+    /**Modify on Jan 17th at 02:30 PM by Jay Mistry
      * @param args the command line arguments
      */
     public static void main(String[] args) {
